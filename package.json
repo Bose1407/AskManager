@@ -20,23 +20,6 @@
     "format.fix": "prettier --write .",
     "typecheck": "tsc"
   },
-  "dependencies": {
-    "bcryptjs": "^3.0.2",
-    "cloudinary": "^2.8.0",
-    "connect-mongo": "^5.1.0",
-    "dotenv": "^17.2.1",
-    "express-rate-limit": "^8.1.0",
-    "express-session": "^1.18.2",
-    "helmet": "^8.1.0",
-    "mongoose": "^8.19.2",
-    "multer": "^2.0.2",
-    "multer-storage-cloudinary": "^4.0.0",
-    "nodemailer": "^7.0.10",
-    "passport": "^0.7.0",
-    "passport-google-oauth20": "^2.0.0",
-    "socket.io": "^4.8.1",
-    "zod": "^3.25.76"
-  },
   "devDependencies": {
     "@hookform/resolvers": "^5.2.1",
     "@radix-ui/react-accordion": "^1.2.11",
